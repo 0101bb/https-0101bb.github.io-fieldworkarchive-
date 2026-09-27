@@ -13,7 +13,7 @@ permalink: /weeks/week-01/
 
 放入 1–3 張圖片，並為每張圖片寫下具體說明：何時、何地、發生了什麼，以及為什麼留下它。
 ```markdown
-![圖片說明]({{ '/assets/images/01_fieldwork_cafe.jpg' | relative_url }})
+![圖片說明]({{ 'assets/images/01_fieldwork_cafe.jpg}})
 ```
 ## FRICTION｜摩擦
 
